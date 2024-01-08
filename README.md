@@ -1,6 +1,6 @@
 <h1 align="center">Hello Everyone, I'm Surendra Sharma 👋</h1>
 <h3 align="center">Passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nittsurendra&label=Profile%20views&color=0e75b6&style=flat" alt="nittsurendra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nittsurendra" alt="nittsurendra" /></a> </p>
