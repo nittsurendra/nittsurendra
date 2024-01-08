@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13Amchp5Xs1vuiNKY1M_u6W3NMhyVmNKJ/view?usp=sharing](https://drive.google.com/file/d/13Amchp5Xs1vuiNKY1M_u6W3NMhyVmNKJ/view?usp=sharing)
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nittsurendra&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 <h3 align="left">Connect with me:</h3>
