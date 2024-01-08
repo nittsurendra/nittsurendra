@@ -11,10 +11,6 @@
 - 📫 How to reach me **sharmanitt2003@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13Amchp5Xs1vuiNKY1M_u6W3NMhyVmNKJ/view?usp=sharing](https://drive.google.com/file/d/13Amchp5Xs1vuiNKY1M_u6W3NMhyVmNKJ/view?usp=sharing)
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nittsurendra&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ss0395478" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ss0395478" height="30" width="40" /></a>
