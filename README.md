@@ -5,8 +5,6 @@
 <h3 align="center">Software Engineer | Distributed Systems | Cloud & AI Platforms</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nittsurendra&label=Profile%20views&color=0e75b6&style=flat" alt="nittsurendra" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nittsurendra" alt="nittsurendra" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ss0395478" target="blank"><img src="https://img.shields.io/twitter/follow/ss0395478?logo=twitter&style=for-the-badge" alt="ss0395478" /></a> </p>
 
 - 🔭 I’m currently working on [AI-Powered Distributed Workflow Platform](https://github.com/nittsurendra/ai-distributed-workflow-platform)
@@ -22,7 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ss0395478" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ss0395478" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/surendra-sharma-06a428228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/surendra-sharma-06a428228/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/surendra-sharma-06a428228/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/surendra-sharma-06a428228/" height="30" width="40" /></a>
 <a href="https://instagram.com/trapped_byrd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trapped_byrd" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ss0395478" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ss0395478" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sharma0395478" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sharma0395478" height="30" width="40" /></a>
