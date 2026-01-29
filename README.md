@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Surendra Sharma</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20👋,%20I'm%20Surendra%20Sharma&fontSize=38&fontColor=ffffff&fontAlignY=40" />
+</p>
 <p align="center">
   <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </p>
